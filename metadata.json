@@ -1,13 +1,13 @@
 {
   "name": "elastic-elasticsearch",
-  "version": "6.4.0",
-  "source": "https://github.com/elastic/puppet-elasticsearch",
+  "version": "6.4.1",
+  "source": "https://github.com/gwsn/puppet-elasticsearch",
   "author": "elastic",
   "license": "Apache-2.0",
   "summary": "Module for managing and configuring Elasticsearch nodes",
   "description": "Module for managing and configuring Elasticsearch nodes",
-  "project_page": "https://github.com/elastic/puppet-elasticsearch",
-  "issues_url": "https://github.com/elastic/puppet-elasticsearch/issues",
+  "project_page": "https://github.com/gwsn/puppet-elasticsearch",
+  "issues_url": "https://github.com/gwsn/puppet-elasticsearch/issues",
   "dependencies": [
     {
       "name": "elastic/elastic_stack",
